@@ -1,5 +1,8 @@
 # Softmax — From First Principles
 
+<img width="375" height="319" alt="image" src="https://github.com/user-attachments/assets/1e5959eb-75ea-4008-bf3c-4c1e5369a285" />
+
+
 ## What is Softmax?
 
 Softmax is a function that transforms a vector of raw scores (logits) into a probability distribution.
