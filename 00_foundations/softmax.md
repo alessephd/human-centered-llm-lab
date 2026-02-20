@@ -91,3 +91,5 @@ def softmax(x):
 
 https://www.datacamp.com/pt/tutorial/softmax-activation-function-in-python
 
+https://www.youtube.com/watch?v=ytbYRIN0N4g
+
